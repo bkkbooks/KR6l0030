@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6l0030/t/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 尊者安惠造一剎那頌曰內五有熟養聲無異熟生八無礙等流亦異熟生性餘三實唯法剎那唯後三內五即是眼之五界十八界中幾是見幾非見頌曰眼法界一分八種說名見五識俱生惠非見不度故眼見色同分非彼能依識傳說不能觀被障諸色故論曰眼全是見故法界一分八種是見餘皆非見論今當略辨此決定相頌曰眼不下於身色識非上眼色於識一切二於身亦然如眼耳亦然次三皆自地身識自下地意不定應知論又經中說二十二根謂眼根耳根鼻根舌根身根意根女根男根命根樂根苦根喜根憂根捨根信根勤根念根定根惠根未知當知根已知根具知根釋曰此是何經所說謂有梵志名曰生測來詣佛所歡喜問訊在一面坐而白佛言施設幾根攝諸根盡佛言我說二十二根攝諸根盡若有遮此更說餘根當知彼說有言無義
+  hash: sha256:cace70ee2c43cb1a9f4d241e5867f0f19fc820c27d2183dbfd1dd23a54e61adb
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 阿毘達磨俱舍論實義疏卷第四, id: KR6l0030_T_004-juan-start, juan_n: '004', jhead: 阿毘達磨俱舍論實義疏卷第四}
+metadata:
+  title: 俱舍論實義疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T29/T29n1561.xml
+    old_id: T29n1561
+hash: sha256:cbf16348d6f48bd84194244ba65d1429cc56e3829ca7c172c31b6b0e8c96068e

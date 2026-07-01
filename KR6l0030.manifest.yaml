@@ -1,0 +1,120 @@
+canonical_identifier: bkk:krp/KR6l0030/v1
+canonical_location: https://kanripo.org/bkk/KR6l0030/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 俱舍論實義疏
+  identifiers:
+    alt_id:
+    - T29n1561
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T29/T29n1561.xml
+    old_id: T29n1561
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6l0030_000.yaml, hash: 'sha256:5c9350b4a9aefd9ceb56227edba861879fe1cfcae180b541ce0deb3a8142c1db'}
+  - {seq: 1, filename: KR6l0030_001.yaml, hash: 'sha256:946edf7ef57b526a354e46c3cb5a03ae402610b2e8bc6b4589cd1ccd03c620d3'}
+  - {seq: 2, filename: KR6l0030_002.yaml, hash: 'sha256:51b8828dad30d31413d03ee9e969974ea12db46b7855b9d711cff648f23d0faa'}
+  - {seq: 3, filename: KR6l0030_003.yaml, hash: 'sha256:959e2b58409200fa3c8fe5aacbda7b9d81ac4cbd17609e8c7f28107fc66a22b7'}
+  - {seq: 4, filename: KR6l0030_004.yaml, hash: 'sha256:cbf16348d6f48bd84194244ba65d1429cc56e3829ca7c172c31b6b0e8c96068e'}
+  - {seq: 5, filename: KR6l0030_005.yaml, hash: 'sha256:aa9f25d17d005b259d543d187d7f8f74cbaa678101d98cba0a5ac495d379c6a2'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6l0030_001.markers.yaml, hash: 'sha256:308ad32a47020a67b5b340f8e443a2a2913f4a34b784497ebd5568fc7aca175a'}
+  - {seq: 2, role: markers, filename: assets/KR6l0030_002.markers.yaml, hash: 'sha256:c0541a0d8a86f493eacc788e504d5b3e8590cbfaf4d779d922c483439e1d947d'}
+  - {seq: 3, role: markers, filename: assets/KR6l0030_003.markers.yaml, hash: 'sha256:f690adb6d9aa906202775a19de822147208cd43326ae42c3d5a90d31e964988e'}
+  - {seq: 4, role: markers, filename: assets/KR6l0030_004.markers.yaml, hash: 'sha256:f9f234d492e962f11faf5d0aacadbbc0e4a0638d13e4d37fdb99d8a9f5770bde'}
+  - {seq: 5, role: markers, filename: assets/KR6l0030_005.markers.yaml, hash: 'sha256:64e93fb7297634f1f96561f3be76f6cee6117eae6990d5f25fecea8eeda2d390'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6l0030_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1065
+  label: 俱舍論實義疏卷第一惣二萬八千偈
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0030_T_001-mulu-1
+    span:
+    - body
+    - 68
+    - 68
+  label: 1 分別界品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0030_T_001-mulu-2
+    span:
+    - body
+    - 68
+    - 68
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0030_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 418
+  label: 阿毘達磨俱舍論實義疏卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0030_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 347
+  label: 阿毘達磨俱舍論實義疏卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0030_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 297
+  label: 阿毘達磨俱舍論實義疏卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0030_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 1146
+  label: 阿毘達磨俱舍論實義疏卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0030_T_005-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 2 分別根品
+  type: mulu
+  level: 1
+hash: sha256:4ddc776eec4b0ef783836fbcd18dc9e7260259677694f402caf672d5093b10c8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

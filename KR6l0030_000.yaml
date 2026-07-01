@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6l0030/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 俱舍論實義疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T29/T29n1561.xml
+    old_id: T29n1561
+hash: sha256:5c9350b4a9aefd9ceb56227edba861879fe1cfcae180b541ce0deb3a8142c1db
