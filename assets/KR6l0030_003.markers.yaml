@@ -84,7 +84,6 @@ markers:
   - {type: xml-element, offset: 192, content: '', id: lgT29p0326c0901, name: lg, role: open, attrs: {type: regular, 'xml:id': lgT29p0326c0901}}
   - {type: punctuation, offset: 197, content: ，, id: KR6l0030_T_003-bkkpn43}
   - {type: punctuation, offset: 197, content: 。, id: KR6l0030_T_003-bkkpn44}
-  - {type: substitution, offset: 201, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1354}}
   - {type: punctuation, offset: 202, content: ，, id: KR6l0030_T_003-bkkpn45}
   - {type: line-break, offset: 202, content: '', id: KR6l0030_T_003-0326c10, ed: T, 'n': 0326c10}
   - {type: punctuation, offset: 207, content: ，, id: KR6l0030_T_003-bkkpn46}
@@ -145,4 +144,4 @@ markers:
   - {type: line-break, offset: 347, content: '', id: KR6l0030_T_003-0326c23, ed: T, 'n': 0326c23}
   - {type: line-break, offset: 347, content: '', id: KR6l0030_T_003-0326c24, ed: T, 'n': 0326c24}
   back: []
-hash: sha256:f690adb6d9aa906202775a19de822147208cd43326ae42c3d5a90d31e964988e
+hash: sha256:3fbc5650c248482ca63e9e85269862f555d9c7ac7d280d0abf08fcdf8903271d
